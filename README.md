@@ -1,4 +1,5 @@
-File Hashing Application README
+# File Hashing Application README
+
 # Overview:
 This Python script provides a graphical interface for hashing files and measuring hashing time for different message sizes using various hashing algorithms. The application is built using the tkinter library for the GUI and hashlib for hashing functionalities.
 
