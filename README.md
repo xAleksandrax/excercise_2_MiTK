@@ -18,6 +18,7 @@ Python 3 installed on your system.
 Ensure you have the required libraries installed. You can install them using pip.
 
 Execution:
+
 Download the script (exercise_2.py) to your local machine.
 Open a terminal or command prompt.
 Navigate to the directory containing the script.
