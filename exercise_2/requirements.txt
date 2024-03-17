@@ -1,0 +1,5 @@
+plotly==5.20.0
+hashlib
+time
+tkinter
+timeit
